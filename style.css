@@ -1,0 +1,16 @@
+.topnav {
+	overflow: hidden;
+	background-color: rgb(158, 219, 245);
+	padding: 0px 20px;
+	text-align: center;
+  }
+.container{
+	font-family: Arial;
+	color: rgb(0, 0, 0);
+	background-color:rgba(255, 255, 255, 0.432);
+	font-size: 30%;
+	padding-left: 50px;
+	padding-right: 50px;
+	text-align: center;
+ }
+
